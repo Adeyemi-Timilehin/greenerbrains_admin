@@ -1,0 +1,537 @@
+/**
+* $primary   : #50BF8D;
+*/
+.color-bg,
+.nice-select .option.selected.focus,
+.nav-holder nav li a:before,
+.section-separator:before,
+.footer-widget h3:before,
+.cluster div,
+.pagination a.current-page,
+.pagination a:hover,
+.irs-bar,
+.irs-slider,
+.irs-bar-edge,
+.catcar-scrollbar .swiper-scrollbar-drag,
+.checket-cat:after,
+.scroll-nav li a.act-scrlink:before,
+.listing-carousel_pagination .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.box-media-zoom,
+.daterangepicker td.active,
+.list-widget-social li a,
+.btn.border-btn:hover,
+.chat-message.chat-message_user p,
+.chat-widget-button,
+.tags-stylwrap a:hover,
+.custom-form .quantity input.qty,
+.listing-hero-section .list-single-header-item h1:before,
+.box-item a,
+.menu-filters a.menu-filters-active,
+.promo-link i,
+.ss-slider-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.accordion a.toggle span,
+.search-widget .search-submit:hover,
+.reply-item:hover,
+#progressbar li.active span,
+#progressbar li:before,
+.user-profile-menu li a.user-profile-act:before,
+.new-dashboard-item,
+.dashboard-title:before,
+.dhs-controls div:hover,
+.message-counter,
+.chat-contacts-item:after,
+.tc-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.tc-pagination2 .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.down-btn i,
+.listing-filters a.gallery-filter-active,
+.single-facts_2 .inline-facts-wrap:before,
+.single-social li a,
+.mob-nav-content-btn.slsw_vis,
+.infobox-status,
+.header-search_container .header-search-button:hover,
+.pac-item:hover,
+.process-item_time-line:before,
+.lg-actions .lg-next:hover,
+.lg-actions .lg-prev:hover,
+.listing-item-grid_title h3:before {
+    background: #57bf8d;
+}
+
+/* ===============================================
+    Spacing
+------------------------*/
+
+/** Padding **/
+.padding-1{ padding-top: 78px; padding-right: 50px; padding-bottom: 48px; }
+.padding-2{ padding-top: 77px; padding-right: 210px; padding-bottom: 62px; }
+.padding-3{ padding-top: 100px; padding-right: 127px; padding-left: 80px; padding-bottom: 142px; }
+.padding-4{ padding-top: 90%; padding-left: 30px; }
+.padding-5{ padding-top: 114px; padding-left: 15px; padding-right: 15px;}
+.padding-6{ margin-top: 50px; padding-top: 80px ; padding-right: 30px; padding-bottom: 34px;}
+.padding-7{ padding-top: 130px; padding-bottom: 45px; padding-left: 70px;}
+.padding-8{ padding-top: 67px; padding-right: 70px; padding-bottom: 50px; padding-left: 70px;}
+.padding-9{ padding-top: 78px; padding-bottom: 28px; padding-left: 60px; padding-right: 15px; }
+.padding-10 { margin-top: -68px; margin-left: -100px; padding-top: 70px; padding-right: 70px; padding-bottom: 100px; padding-left: 100px; }
+.padding-11 { padding-top: 105px ; padding-right: 120px ; padding-bottom: 50px ; padding-left: 265px ; }
+.padding-12{ padding-top: 105px; padding-right: 120px; padding-bottom: 50px; padding-left: 265px; }
+.padding-13{ padding-top: 78px; padding-right: 230px; padding-bottom: 48px; }
+.plr-100{padding-left: 100px; padding-right: 100px;}
+.plr-150{padding-left: 150px; padding-right: 150px;}
+.plr-200{padding-left: 200px; padding-right: 200px;}
+.ptb-80{padding-top: 80px; padding-bottom: 80px;}
+.ptb-100{padding-top: 100px; padding-bottom: 100px;}
+.ptb-150{padding-top: 150px; padding-bottom: 150px;}
+
+.pr-5{ padding-right: 5px !important}
+.pr-10{ padding-right: 10px !important; }
+.pr-15{ padding-right: 15px !important; }
+.pr-20{ padding-right: 20px !important; }
+.pr-25{ padding-right: 25px !important; }
+.pr-30{ padding-right: 30px !important; }
+.pr-35{ padding-right: 35px !important; }
+.pr-40{ padding-right: 40px !important; }
+.pr-45{ padding-right: 45px !important; }
+.pr-50{ padding-right: 50px !important; }
+.pr-55{ padding-right: 55px !important; }
+.pr-60 { padding-right: 60px !important; }
+.pr-100{padding-right: 100px !important;}
+.pl-0{ padding-left: 0px !important; }
+.pl-5 { padding-left: 5px !important; }
+.pl-10{ padding-left: 10px !important; }
+.pl-15{ padding-left: 15px !important; }
+.pl-20{ padding-left: 20px !important; }
+.pl-25{ padding-left: 25px !important; }
+.pl-30{ padding-left: 30px !important; }
+.pl-35{ padding-left: 35px !important; }
+.pl-40{ padding-left: 40px !important; }
+.pl-45{ padding-left: 45px !important; }
+.pl-50{ padding-left: 50px !important; }
+.pl-55{ padding-left: 55px !important; }
+.pl-60{ padding-left: 60px !important; }
+.pl-65{ padding-left: 65px !important; }
+.pl-70{ padding-left: 70px !important; }
+.pl-75{ padding-left: 75px !important; }
+.pl-80{ padding-left: 80px !important; }
+.pl-85{ padding-left: 85px !important; }
+.pl-90{ padding-left: 90px !important; }
+.pl-95{ padding-left: 95px !important; }
+.pl-100{ padding-left: 100px !important; }
+
+.pt-2{ padding-top: 2px !important; }
+.pt-4{ padding-top: 4px !important;}
+.pt-10{ padding-top: 10px !important; }
+.pt-15 { padding-top: 15px !important; }
+.pt-20 { padding-top: 20px !important; }
+.pt-25 { padding-top: 25px !important; }
+.pt-30{ padding-top: 30px !important; }
+.pt-35{ padding-top: 30px !important; }
+.pt-40{ padding-top: 40px !important; }
+.pt-45{ padding-top: 45px !important; }
+.pt-55{ padding-top: 55px !important; }
+.pt-60 { padding-top: 60px !important; }
+.pt-65{ padding-top: 65px !important; }
+.pt-70 { padding-top: 70px !important; }
+.pt-75 { padding-top: 75px !important; }
+.pt-80{padding-top: 80px !important;}
+.pt-87{ padding-top: 87px !important; }
+.pt-90{padding-top: 90px !important;}
+.pt-92{padding-top: 92px !important;}
+.pt-100{padding-top: 100px !important;}
+.pt-110{padding-top: 110px !important;}
+.pt-150{padding-top: 150px !important;}
+.pt-200{padding-top: 200px !important;}
+.pt-250{padding-top: 250px !important;}
+.pb-5{ padding-bottom: 5px !important; }
+.pb-10{ padding-bottom: 10px !important; }
+.pb-15{ padding-bottom: 15px !important; }
+.pb-20{ padding-bottom: 20px !important; }
+.pb-25{ padding-bottom: 25px !important; }
+.pb-30{ padding-bottom: 30px !important; }
+.pb-35{ padding-bottom: 35px !important; }
+.pb-45{ padding-bottom: 45px !important; }
+.pb-50{ padding-bottom: 50px !important; }
+.pb-55{ padding-bottom: 55px !important; }
+.pb-60{ padding-bottom: 60px !important; }
+.pb-70{ padding-bottom: 70px !important; }
+.pb-80{ padding-bottom: 80px !important; }
+.pb-90{ padding-bottom: 90px !important; }
+.pb-100{padding-bottom: 100px !important;}
+.pb-150{padding-bottom: 150px !important;}
+.pb-200{padding-bottom: 200px !important;}
+
+
+/** Margin **/
+.mt-10 { margin-top: 10px !important; }
+.mt-15{ margin-top: 15px !important;}
+.mt-25{ margin-top: 25px !important;}
+.mt-30{ margin-top: 30px !important;}
+.mt-50{ margin-top: 50px !important;}
+.mt-60{ margin-top: 60px !important; }
+.mt-80{margin-top: 80px !important;}
+.mt-100{margin-top: 100px !important;}
+.mt-110{margin-top: 110px !important;}
+.mt-120{margin-top: 120px !important;}
+.mt-130{margin-top: 130px !important;}
+.mt-140{margin-top: 140px !important;}
+.mt-150{margin-top: 150px !important;}
+.mt-164{ margin-top: 164px !important; }
+.mt_5{ margin-top: -5px!important; }
+.mt_10{ margin-top: -10px!important; }
+.mt_15{ margin-top: -15px!important; }
+.mt_25{ margin-top: -25px!important; }
+.mt_30{ margin-top: -30px!important; }
+.mt_40{ margin-top: -40px!important; }
+.mt_50{ margin-top: -50px !important; }
+.mt_60{ margin-top: -60px !important; }
+.mt_80{ margin-top: -80px !important; }
+.mt_85{ margin-top: -85px !important; }
+.mt_92{ margin-top: -92px !important; }
+.mt_103 { margin-top: -103px !important;}
+.mt_110{ margin-top: -110px !important; }
+.mt_140{ margin-top: -140px !important; }
+.mt_150{ margin-top: -150px !important; }
+.mt_165{ margin-top: -165px !important; }
+.mt_180{ margin-top: -180px !important; }
+.ml-0{ margin-left: 0px !important }
+.ml-15 { margin-left: 15px!important; }
+.mr-15 { margin-right: 15px!important; }
+.ml_40{ margin-left: -40px !important; }
+.ml_60{ margin-left: -60px !important; }
+.ml_80{ margin-left: -80px !important; }
+.ml_100{ margin-left: -100px !important; }
+.ml_115{ margin-left: -115px !important; }
+.ml_120{ margin-left: -120px !important; }
+.ml_167{ margin-left: -167px !important;}
+.ml_170{ margin-left: -170px !important; }
+.mr-0{ margin-right: 0px !important; }
+.mr_40{ margin-right: -40px ;}
+.mr_60{ margin-right: -60px ;}
+.mr_80{ margin-right: -80px ;}
+.mr_90{ margin-right: -90px ;}
+.mr_100{ margin-right: -100px ;}
+.mr_140 { margin-right: -140px!important; }
+.mr_150 { margin-right: -150px!important; }
+.mr_240{ margin-right: -240px ;}
+.mb_1{ margin-bottom: -1px !important; }
+.mb-4{ margin-bottom: 4px !important; }
+.mb-10{ margin-bottom: 10px !important; }
+.mb-15{ margin-bottom: 15px !important; }
+.mb-20{ margin-bottom: 20px !important; }
+.mb-30{ margin-bottom: 30px !important; }
+.mb-35{ margin-bottom: 35px !important; }
+.mb-40{ margin-bottom: 40px !important; }
+.mb-45{ margin-bottom: 45px !important; }
+.mb-50 { margin-bottom: 50px !important; }
+.mb-55 { margin-bottom: 55px !important; }
+.mb-100 { margin-bottom: 100px !important; }
+.mb_184{ margin-bottom: -184px ! important;}
+.mb_224{ margin-bottom: -224px ! important;}
+.mtb_40{margin-top: -40px; margin-bottom: -40px;}
+.mtb_70{margin-top: -70px; margin-bottom: -70px;}
+.mtb-80{margin-top: 80px; margin-bottom: 80px;}
+.mtb-100{margin-top: 100px; margin-bottom: 100px;}
+.mtb-150{margin-top: 150px; margin-bottom: 150px;}
+
+.pin, .nice-select:after, .loader-inner, .ed-btn, blockquote, .main-register-holder .tabs-menu li.current, .filter-sidebar-header .tabs-menu li.current, .header-search-input input:focus, .listsearch-input-wrap .tabs-menu li.current, .btn.border-btn {
+  border-color: #57bf8d;
+}
+
+.logo-holder {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 2px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-top: 15px;
+}
+
+.header-search_btn {
+    border: 1px solid white;
+}
+
+.act-link .fa,
+.main-header .fa {
+    color: #ffffff;
+}
+
+.hidden {
+  display: none !important;
+}
+
+fieldset i, fieldset .fal, 
+.subscribe-button .fal, 
+.breadcrumbs a:before,
+.cat-item li span,
+.dashboard-header-stats-item i,
+.dashboard-header-stats-item span,
+.user-profile-menu li a i,
+.filter-tags label a,
+form label i{
+    color: #57bf8d !important;
+}
+
+.circle_bg-bal {
+  background: radial-gradient(circle at 10px 10px, rgba(87, 191, 141, 0.68), rgba(87, 191, 141, 0.43));
+}
+
+.gradient-bg, .header-modal .tabs-menu li.current, .scrollbar-inner2 .simplebar-scrollbar:before {
+  background-color: #57bf8d;
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#57bf8d), to(#57bf8d));
+  background: -webkit-linear-gradient(top, #57bf8d, #57bf8d);
+}
+
+.gradient-bg-figure {
+  background: rgb(101, 202, 163);
+}
+
+.list-main-wrap-title span {
+  color: inherit !important;
+}
+.sub-footer {
+    background: #57bf8d;
+}
+
+.main-footer {
+    background: #222222;
+}
+
+.to-top, a.btn:hover {
+    background: #57bf8d;
+    color: #ffffff !important;
+}
+
+.wave {
+  background: #59bf5791;
+}
+
+.main-search-input-item {
+  width: 100%;
+}
+
+.nav-holder nav li a.act-link, .nav-holder nav li a:hover, .header-search_btn i, .show-reg-form i, .nice-select:before, .main-register_title span strong, .lost_password a, .custom-form.dark-form label span, .filter-tags input:checked:after, .custom-form .filter-tags input:checked:after, .custom-form .filter-tags label a, .section-subtitle, .footer-social li a, .subfooter-nav li a, #footer-twiit .timePosted a:before, #subscribe-button i, .nice-select .nice-select-search-box:before, .nav-holder nav li a i, .show-lang i, .lang-tooltip a:hover, .main-register-holder .tabs-menu li a i, .header-modal_btn i, .custom-form .log-submit-btn:hover i, .main-search-input-item label i, .header-search-input label i, .location a, .footer-contacts li i, #footer-twiit p.tweet:after, .subscribe-header h3 span, .footer-link i, .footer-widget-posts .widget-posts-date i, .clear-wishlist, .widget-posts-descr-link a:hover, .geodir-category-location a i, .header-modal-top span strong, .cart-btn:hover i, .to-top, .map-popup-location-info i, .infowindow_wishlist-btn, .infobox-raiting_wrap span strong, .map-popup-footer .main-link i, .infoBox-close, .mapnavbtn, .mapzoom-in, .mapzoom-out, .location-btn, .list-main-wrap-title h2 span, .grid-opt li span.act-grid-opt, .reset-filters i, .avatar-tooltip strong, .geodir-opt-list a:hover i, .geodir-js-favorite_btn:hover i, .geodir-category_contacts li span i, .geodir-category_contacts li a:hover, .close_gcc:hover, .listsearch-input-wrap-header i, .listsearch-input-item span.iconn-dec, .more-filter-option-btn i, .clear-filter-btn i, .back-to-filters, .price-rage-wrap-title i, .listsearch-input-wrap_contrl li a i, .geodir-opt-tooltip strong, .listing-features li i, .gdop-list-link:hover i, .show-hidden-sb i, .filter-sidebar-header .tabs-menu li a i, .datepicker--day-name, .scroll-nav li a.act-scrlink, .scroll-nav-wrapper-opt a.scroll-nav-wrapper-opt-btn i, .show-more-snopt:hover, .show-more-snopt-tooltip a i, .breadcrumbs a:before, .list-single-stats li span i, .list-single-main-item-title h3 i, .box-widget-item-header i, .opening-hours ul li.todaysDay span.opening-hours-day, .listing-carousel-button, .list-single-main-item-title i, .list-single-main-item-title:before, .box-widget-item-header:before, .list-author-widget-contacts li span i, .btn i, .reviews-comments-item-date i, .rate-review i, .chat-widget_input button, .chat-widget_header h3 a, .custom-form .review-total span input, .photoUpload span i, .bottom-bcw-box_link a:hover, .custom-form label i, .video-box-btn, .claim-widget-link a, .custom-form .quantity span i, .scroll-nav li a.act-scrlink i, .share-holder.hid-share .share-container .share-icon, .sc-btn, .list-single-main-item-title h3 span, .ss-slider-cont, .team-social li a, .team-info h4, .simple-title span, .back-tofilters i, .breadcrumbs.block-breadcrumbs:before, .breadcrumbs.top-breadcrumbs a:before, .top-breadcrumbs .container:before, .header-sec-link a i, .map-modal-container h3 a, .map-modal-close, .post-opt li i, .cat-item li span, .cat-item li a:hover, .brd-show-share i, .author-social li a, .post-nav-text strong, .post-nav:before, .faq-nav li a.act-scrlink i, .faq-nav li a.act-scrlink:before, .faq-nav li a:hover i, .log-massage a, .cart-total strong, .action-button i, .dashboard-header-stats-item span, .dashboard-header-stats-item i, .add_new-dashboard i, .tfp-btn strong, .user-profile-menu li a i, .logout_btn i, .dashboard-message-text p a, .dashboard-message-time i, .pass-input-wrap span, .fuzone .fu-text i, .radio input[type="radio"]:checked + span:before, .booking-list-message-text h4 span, .dashboard-message-text h4 a:hover, .chat-contacts-item .chat-contacts-item-text span, .recomm-price i, .time-line-icon i, .testi-link, .testimonilas-avatar h4, .testimonilas-text:before, .testimonilas-text:after, .cc-btn, .single-facts_2 .inline-facts-wrap .inline-facts i, .images-collage-title, .collage-image-input i, .process-count, .listing-counter span, .main-search-input-tabs .tabs-menu li.current a, .hero-categories li a i, .main-search-input-item span.iconn-dec, .main-search-button i, .shb, .follow-btn i, .user-profile-header_stats li span, .follow-user-list li:hover a span, .dashboard-tabs .tabs-menu li a span, .bold-facts .inline-facts-wrap .num, .page-scroll-nav nav li a i, .mob-nav-content-btn i, .map-close, .post-opt-title a:hover, .post-author a:hover span, .post-opt a:hover, .breadcrumbs a:hover, .reviews-comments-header h4 a:hover, .listing-item-grid_title h3 a:hover, .geodir-category-content h3 a:hover, .footer-contacts li a:hover, .footer-widget-posts .widget-posts-descr a:hover, .footer-link:hover, .geodir-category-opt h4 a:hover, .header-search-button:hover i, .list-author-widget-contacts li a:hover, .list-single-author a:hover, .close_sbfilters, .show-lang:hover i, .show-reg-form:hover, .close-reg:hover, .pac-icon:before, .pi-text h4, .section-subtitle, .close-lpt, .listing-carousel-button {
+  color: #ffffff;
+}
+
+.log-massage a, a:hover, .current, .current a, .facilities-list li i, .team-social li a, .login-column_header h4, .main-register-holder .tabs-menu li a {
+  color: #57bf8d !important;
+  /* box-shadow: 0px 0px 0px 0.9px rgba(255, 255, 255, 0.91) */
+}
+
+* {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.filter-tags input, .custom-form .filter-tags input {
+  border: 1px solid #57bf8d;
+  /* background: #57bf8d; */
+}
+
+.filter-tags input:checked::after, .custom-form .filter-tags input:checked::after {
+  color: #57bf8d !important;
+}
+
+.geodir-category-img-wrap img {
+  max-width: 100% !important;
+  max-height: 100%;
+  overflow: hidden;
+}
+.listing_carditem .geodir-category-img-wrap {
+  max-width: 100%;
+  max-height: 300px;
+}
+
+.down-btn:hover, .down-btn a:hover, .nav-holder nav li a:hover {
+  color: white !important;font-size: larger;
+}
+
+.shop-tabs-menu li.current a, .banner-wdget-content a:hover, .tags-stylwrap a:hover {
+    color: #fff !important;
+    background: #57bf8d !important;
+}
+
+.product-header_form button:hover {
+  transition: ease-in-out 3ms all;
+}
+  
+.color-bg:hover, .product-header_form button:hover {
+    background: #ffffff;
+    color: #57bf8d;
+    border: 0.14em solid #57bf8d;
+}
+
+.geodir-category-location a i {
+  color: #57bf8d;
+}
+
+.course-list-item {
+  cursor: pointer;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+.widget-posts-img iframe {
+  width: -webkit-fill-available;
+  height: -webkit-fill-available;
+  max-width: 100%;
+}
+
+.header-sec-link a i {
+  color: #57bf8d !important;
+}
+
+.terms_of_use p {
+  font-size: 20px !important;
+  font-family: times;
+  letter-spacing: 0.1px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+@media only screen and  (min-width: 620px) {
+  .terms_of_use {
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+}
+
+
+
+/* FROALA COMPONENTS */
+
+body.no-block {
+  flex-flow: column;
+  overflow-x: hidden;
+  display: flex;
+}
+
+.fp-no-block {
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  flex-direction: column;
+  cursor: pointer;
+  color: #444;
+  display: none;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+  background: #FFF;
+  transition: margin 0.25s linear 0.25s;
+}
+
+.fp-no-block:hover {
+  background: #EFEFEF;
+}
+
+.fp-no-block.fp-visible {
+  display: flex;
+}
+
+.fp-no-sections {
+  flex: 2;
+}
+
+.fp-no-block p {
+  margin: 0;
+}
+
+.fp-no-sections p + p {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.fdb-block {
+  box-shadow: 0;
+  margin-bottom: 0;
+  transition: margin 0.25s linear 0.25s;
+}
+
+.fp-active {
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.14), 0 0px 6px rgba(0,0,0,0.16);
+  -moz-box-shadow: 0px 0px 20px rgba(0,0,0,0.14), 0 0px 6px rgba(0,0,0,0.16);
+  -webkit-box-shadow: 0px 0px 20px rgba(0,0,0,0.14), 0 0px 6px rgba(0,0,0,0.16);
+  z-index: 9999;
+}
+
+body.fp-add-view [data-block-type],
+body.fp-add-view .fp-no-block {
+  margin-bottom: 20px;
+}
+
+body.fp-add-view [data-block-type] {
+  user-select: none;
+  position: relative;
+}
+
+body.fp-add-view section[data-block-type] {
+  cursor: move;
+}
+
+body.fp-add-view [data-block-type]:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  display: block;
+  z-index: 10000;
+  content: "";
+}
+
+.fp-drop-placeholder {
+  height: 200px;
+  width: 100%;
+  border: solid 10px  #0098f7;
+  background: #FFF;
+  margin-bottom: 20px;
+}
+
+.fp-dragging {
+  display: none;
+}
+
+.fr-popup {
+  z-index: 10000 !important;
+}
+
+img.fr-dib {
+  margin: 5px auto;
+  display: block;
+  float: none;
+  vertical-align: top;
+}
+
+span.fr-emoticon.fr-emoticon-img {
+  background-repeat: no-repeat !important;
+  font-size: inherit;
+  height: 1em;
+  width: 1em;
+  min-height: 20px;
+  min-width: 20px;
+  display: inline-block;
+  margin: -.1em .1em .1em;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.cart-modal-list .tag-subjects .cart-modal-image img, 
+.cart-modal-list .category-subjects .cart-modal-image img {
+  width: 50px !important;
+  height: 50px !important;
+}
+
+.geodir-category-img-wrap img {
+  max-width: 100% !important;
+  max-height: 100%;
+  overflow: hidden;
+  width: 200px;
+}
+
+.dashboard-subject-item {
+  border: 1.5px solid #57bf8d;
+}
+
+.share-container .share-icon, .share-container .share-icon a {
+  color: #57bf8d !important;
+}
